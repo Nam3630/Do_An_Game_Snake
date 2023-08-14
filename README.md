@@ -24,6 +24,11 @@ Cách chơi:
   <li>Nhấn phím mũi tên phải: để di chuyển con rắn sang phải.</li>
 </ul>
 
+Hướng dẫn: 
+- Mục tiêu là phải tăng điểm trong trò chơi lên mức cao nhất
+- Tránh né các vật va chạm
+- Đưa rắn tới vị trí các mồi xuất hiện ngẫu nhiên trong màn hình
+
 Nguy hiểm: 
 - Đưa rắn né các vị trí các góc của màn hình vì điều đó sẽ làm bạn tránh việc
    rắn chạm vào bức tường thì trò chơi sẽ kết thúc
