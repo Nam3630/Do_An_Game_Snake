@@ -16,7 +16,7 @@ chơi trở nên dễ nhìn và dễ điều khiển.
 chuỗi các ô vuông nối tiếp nhau. Khi rắn ăn mồi, đuôi của nó sẽ dài ra. Mồi 
 thường là một hình tròn nhỏ xuất hiện ngẫu nhiên trên màn chơi.
 
-Bạn có thể điều khiển rắn:
+Cách chơi:
 <ul>
   <li>Nhấn phím mũi tên lên: để di chuyển con rắn lên trên.</li>
   <li>Nhấn phím mũi tên xuống: để di chuyển con rắn xuống dưới.</li>
