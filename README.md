@@ -28,6 +28,7 @@ Hướng dẫn:
 - Mục tiêu là phải tăng điểm trong trò chơi lên mức cao nhất
 - Tránh né các vật va chạm
 - Đưa rắn tới vị trí các mồi xuất hiện ngẫu nhiên trong màn hình
+- Điểm sẽ tăng với mỗi mồi được ăn bởi rắn 
 
 Nguy hiểm: 
 - Đưa rắn né các vị trí các góc của màn hình vì điều đó sẽ làm bạn tránh việc
