@@ -24,9 +24,11 @@ Cách chơi:
   <li>Nhấn phím mũi tên phải: để di chuyển con rắn sang phải.</li>
 </ul>
 
-Gợi Ý : 
-- Hãy ăn nhiều mồi nhất để gia tăng điểm số của bản thân nhé
-- Tránh để rắn va chạm vào cơ thể của rắn vì điều đó sẽ làm trò chơi kết thúc
+Nguy hiểm: 
 - Đưa rắn né các vị trí các góc của màn hình vì điều đó sẽ làm bạn tránh việc
    rắn chạm vào bức tường thì trò chơi sẽ kết thúc
+- Tránh để rắn va chạm vào cơ thể của rắn vì điều đó sẽ làm trò chơi kết thúc
+
+Gợi Ý : 
+- Hãy ăn nhiều mồi nhất để gia tăng điểm số của bản thân nhé
 - Điểm số càng cao thì chú rắn sẽ có chiều dài càng lớn  
